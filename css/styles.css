@@ -112,7 +112,7 @@ body {
 
 .top-container {
     height: 90px;
-    width: 1370px;
+    /* width: 1370px; */
    background-color: #0e5ba8;
     margin: 0 auto 0 auto;
     padding: 0%;
